@@ -1,7 +1,7 @@
-#ifndef Validierung_H
-#define Validierung_H
+#ifndef VALIDIERUNG_H
+#define VALIDIERUNG_H
 
 // Funktionsdeklaration (Prototyp)
 void Function2();
 
-#endif // MEINE_FUNKTIONEN_H#pragma once
+#endif // VALIDIERUNG_H

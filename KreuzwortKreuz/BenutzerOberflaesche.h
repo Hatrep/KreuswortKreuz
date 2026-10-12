@@ -1,7 +1,7 @@
-#ifndef BenutzerOberflaeshe_H
-#define BenutzerOberflaeshe_H
+#ifndef BENUTZER_OBERFLAESCHE_H
+#define BENUTZER_OBERFLAESCHE_H
 
 // Funktionsdeklaration (Prototyp)
 void Function();
 
-#endif // MEINE_FUNKTIONEN_H#pragma once
+#endif // BENUTZER_OBERFLAESCHE_H

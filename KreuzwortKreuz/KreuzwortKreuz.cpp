@@ -23,6 +23,6 @@ int main()
         cout << wortliste[0][i] << " ";
 
     cout << endl;
-
+    Function2();
     return 0;
 }

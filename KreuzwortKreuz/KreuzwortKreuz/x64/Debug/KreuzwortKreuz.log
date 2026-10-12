@@ -1,3 +1,2 @@
-﻿  KreuzwortKreuz.cpp
-KreuzwortKreuz.obj : error LNK2019: unresolved external symbol "void __cdecl Function3(void)" (?Function3@@YAXXZ) referenced in function main
-C:\Users\Super\Documents\GitHub\KreuswortKreuz\KreuzwortKreuz\x64\Debug\KreuzwortKreuz.exe : fatal error LNK1120: 1 unresolved externals
+﻿  BenutzerOberflaesche.cpp
+  KreuzwortKreuz.vcxproj -> C:\Users\Super\Documents\GitHub\KreuswortKreuz\KreuzwortKreuz\x64\Debug\KreuzwortKreuz.exe
