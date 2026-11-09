@@ -1,2 +1,5 @@
 ﻿  BenutzerOberflaesche.cpp
+  KreuzwortKreuz.cpp
+  Generating Code...
+C:\Users\Super\Documents\GitHub\KreuswortKreuz\KreuzwortKreuz\BenutzerOberflaesche.cpp(64,1): warning C4715: 'BuchtabeFragge': not all control paths return a value
   KreuzwortKreuz.vcxproj -> C:\Users\Super\Documents\GitHub\KreuswortKreuz\KreuzwortKreuz\x64\Debug\KreuzwortKreuz.exe

@@ -5,6 +5,24 @@
 #include <iostream>
 using namespace std;
 
+char WortTabelle[4][4] = {
+    {'#', '*', '+', '-'},
+    {'/', '@', '$', '%'},
+    {'&', '!', '?', '='},
+    {'~', '^', '<', '>'}
+};
+
+char AnforderungsTabelle2[4][4] = {
+    {'A', 'B', 'C', 'D'},
+    {' ', ' ', ' ', ' '},
+    {'X', 'Y', 'Z', 'W'},
+    {' ', ' ', ' ', ' '}
+};
+
+void WortEinsetzen(char Wort[4], int XPos, int YPos)
+{
+    
+}
 
 int main()
 {
@@ -23,6 +41,8 @@ int main()
         cout << wortliste[0][i] << " ";
 
     cout << endl;
-    Function2();
+    DieTabelleAnzeigen(WortTabelle, AnforderungsTabelle2);
+    BuchtabeFragge();
+    KoordinateFraggen(true);
     return 0;
 }

@@ -2,6 +2,9 @@
 #define BENUTZER_OBERFLAESCHE_H
 
 // Funktionsdeklaration (Prototyp)
-void Function();
+void DieTabelleAnzeigen(char[4][4], char[4][4]);
+
+char BuchtabeFragge();
+int KoordinateFraggen(bool);
 
 #endif // BENUTZER_OBERFLAESCHE_H

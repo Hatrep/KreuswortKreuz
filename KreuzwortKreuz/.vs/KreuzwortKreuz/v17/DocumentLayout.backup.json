@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{501B5230-B52A-421B-9F1D-E81F0956735F}|KreuzwortKreuz.vcxproj|C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\KreuzwortKreuz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{501B5230-B52A-421B-9F1D-E81F0956735F}|KreuzwortKreuz.vcxproj|solutionrelative:KreuzwortKreuz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\BenutzerOberflaesche.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BenutzerOberflaesche.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501B5230-B52A-421B-9F1D-E81F0956735F}|KreuzwortKreuz.vcxproj|C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\BenutzerOberflaesche.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{501B5230-B52A-421B-9F1D-E81F0956735F}|KreuzwortKreuz.vcxproj|solutionrelative:BenutzerOberflaesche.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\Wortliste.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wortliste.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wortliste.h",
+              "DocumentMoniker": "C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\Wortliste.h",
+              "RelativeDocumentMoniker": "Wortliste.h",
+              "ToolTip": "C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\Wortliste.h",
+              "RelativeToolTip": "Wortliste.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-02T09:05:27.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BenutzerOberflaesche.h",
+              "DocumentMoniker": "C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\BenutzerOberflaesche.h",
+              "RelativeDocumentMoniker": "BenutzerOberflaesche.h",
+              "ToolTip": "C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\BenutzerOberflaesche.h",
+              "RelativeToolTip": "BenutzerOberflaesche.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-02T09:05:05.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BenutzerOberflaesche.cpp",
+              "DocumentMoniker": "C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\BenutzerOberflaesche.cpp",
+              "RelativeDocumentMoniker": "BenutzerOberflaesche.cpp",
+              "ToolTip": "C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\BenutzerOberflaesche.cpp",
+              "RelativeToolTip": "BenutzerOberflaesche.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-02T09:04:58.319Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +74,7 @@
               "RelativeDocumentMoniker": "KreuzwortKreuz.cpp",
               "ToolTip": "C:\\Users\\Super\\Documents\\GitHub\\KreuswortKreuz\\KreuzwortKreuz\\KreuzwortKreuz.cpp",
               "RelativeToolTip": "KreuzwortKreuz.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-12T08:09:32.651Z",
               "EditorCaption": ""
